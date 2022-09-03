@@ -1,3 +1,3 @@
 # Mobile Application
-Android APP using Javascript
+Android APP using Java
 I built an android app using javascript.
