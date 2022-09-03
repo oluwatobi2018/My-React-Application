@@ -1,3 +1,3 @@
-# Mobile Application
+# App
 Android APP using Java
-I built an android app using javascript.
+I built an android app using java.
